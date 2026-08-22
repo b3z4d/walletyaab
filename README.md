@@ -1,4 +1,4 @@
-# Crypto Wallet Finder - Android
+# ولت یاب - نسخه موبایل (اندروید)
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 3.0">
@@ -11,7 +11,16 @@
   <strong>نسخه ۳.۰ · یک ابزار قدرتمند برای پیدا کردن و بازیابی کیف‌پول‌های ارز دیجیتال</strong>
 </p>
 
+
+<p align="center">
+  <a href="./Wallet-Finder.apk"><img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK"></a>
+</p>
+  
 ---
+
+<p align="center">
+<img src="screenshots/cover.jpg" alt="Wallet Finder Cover"/>
+</p>
 
 ## 📱 معرفی برنامه
 
@@ -53,14 +62,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/home_screen.png" alt="صفحه اصلی" width="250"/>
+        <img src="screenshots/home_screen.jpg" alt="صفحه اصلی"/>
         <br/>
         <strong>صفحه اصلی</strong>
       </td>
       <td align="center">
-        <img src="screenshots/wallet_details.png" alt="جزئیات کیف‌پول" width="250"/>
+        <img src="screenshots/auto_update.jpg" alt="آپدیت اتوماتیک"/>
         <br/>
-        <strong>جزئیات کیف‌پول</strong>
+        <strong>آپدیت اتوماتیک</strong>
       </td>
     </tr>
   </table>
@@ -72,14 +81,33 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/seed_generator.png" alt="تولید Seed" width="250"/>
+        <img src="screenshots/balance_check.jpg" alt="تولید عبارت Seed"/>
         <br/>
         <strong>تولید عبارت Seed</strong>
       </td>
       <td align="center">
-        <img src="screenshots/balance_check.png" alt="بررسی موجودی" width="250"/>
+        <img src="screenshots/balance_check.jpg" alt="تولید عبارت Seed"/>
         <br/>
-        <strong>بررسی موجودی کیف‌پول</strong>
+        <strong>تولید عبارت Seed</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/wallet_details.jpg" alt="یافتن کیف پول"/>
+        <br/>
+        <strong>یافتن کیف پول</strong>
+      </td>
+      <td align="center">
+        <img src="screenshots/seed_generator.jpg" alt="مشاهده کیف پول"/>
+        <br/>
+        <strong>مشاهده کیف پول</strong>
       </td>
     </tr>
   </table>
@@ -114,8 +142,8 @@
 
 ### دانلود از Releases
 
-1. روی [دریافت ولت یاب](https://github.com/b3z4d/walletyaab/blob/main/Wallet-Finder.apk) کلیلک کنید.
-2. آخرین نسخه (`v3.0`) را دانلود میگردد.
+1. [دریافت ولت یاب](./Wallet-Finder.apk).
+2. آخرین نسخه را دانلود کنید.
 3. فایل APK را روی دستگاه اندرویدی خود نصب کنید.
 4. در صورت نیاز، نصب از منابع ناشناس را فعال کنید.
 
