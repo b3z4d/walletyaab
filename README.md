@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>نسخه ۳.۰ · یک ابزار قدرتمند برای پیدا کردن و بازیابی کیف‌پول‌های ارز دیجیتال</strong>
+  <strong>·یک ابزار قدرتمند برای پیدا کردن و بازیابی کیف‌پول‌های ارز دیجیتال</strong>
 </p>
 
 
@@ -86,7 +86,7 @@
         <strong>تولید عبارت Seed</strong>
       </td>
       <td align="center">
-        <img src="screenshots/balance_check.jpg" alt="تولید عبارت Seed"/>
+        <img src="screenshots/balance_check1.jpg" alt="تولید عبارت Seed"/>
         <br/>
         <strong>تولید عبارت Seed</strong>
       </td>
